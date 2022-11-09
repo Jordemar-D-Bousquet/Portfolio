@@ -11,5 +11,5 @@ Tecnologia Utilizadas:
 -CSS
 -BOOTSTRAP
 
-Acesse o site clicanto [Aqui](https://jordemar-d-bousquet.github.io/Portifolio/)
+[Acesse o site aqui](https://jordemar-d-bousquet.github.io/Portifolio/)
 
