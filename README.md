@@ -17,6 +17,6 @@ Tecnologia Utilizadas:
 -BOOTSTRAP
 
 
-Acesse o site:
-[Link](https://jordemar-d-bousquet.github.io/Portifolio)
+Acesse o site
+[aqui](https://jordemar-d-bousquet.github.io/Portifolio)
 
