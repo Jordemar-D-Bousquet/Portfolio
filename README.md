@@ -1,5 +1,5 @@
-# Portifolio
-Porjeto Portifolio Pessoal
+# Portfolio
+Porjeto Portfolio Pessoal
 
 Tecnologia Utilizadas:
 -HTML
@@ -18,5 +18,5 @@ Tecnologia Utilizadas:
 
 
 Acesse o site
-[aqui](https://jordemar-d-bousquet.github.io/Portifolio)
+[aqui](https://jordemar-d-bousquet.github.io/Portfolio)
 
