@@ -1,5 +1,5 @@
 # Portfolio
-Porjeto Portfolio Pessoal
+Projeto Portfolio Pessoal
 
 Tecnologia Utilizadas:
 -HTML
